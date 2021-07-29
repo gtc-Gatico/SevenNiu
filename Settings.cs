@@ -12,8 +12,8 @@ namespace SevenNiu
     public class Settings
     {
         public static Dictionary<string, string> config = new Dictionary<string, string>();
-        public static string AccessKey = null;//"QzMhIPlXaR_E8DSEg-PWPV5VseReVDDG2HOj97h2";
-        public static string SecretKey = null;// "cT5ktRLtkKaHQNH_JqEQPK4LuaFlrQcGrps-JRmV";
+        public static string AccessKey = null;//"请填写自己的AccessKey";
+        public static string SecretKey = null;// "请填写自己的SecretKey";
         
         public static bool isInit()
         {
